@@ -64,4 +64,4 @@ gem 'unicorn'
 gem 'graphql', '<= 1.7'
 gem 'graphiql-rails', '<= 1.5'
 
-gem 'graphiql-rails', group: :development
+# gem 'graphiql-rails', group: :development
